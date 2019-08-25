@@ -6,7 +6,7 @@ Repositório para o desenvolvimento do software "BlaBlaBlaQuiz" para a disciplin
 BlaBlaBlaQUIZ
 
 # Descrição 
-	O jogo abordará sobre uma parte da gramática que é a fonologia. 
+	O jogo abordará sobre uma parte da gramática, especificamente sobre fonologia.  
 	
 # Qual é a dinâmica do jogo?
 	O jogo contará com vários assuntos sobre fonologia(fonema, encontro vocálico, encontro consonontal, sílaba, ortoépia etc). O usuário irá escolher um assunto a partir do menu e após isso escolherá o nível fácil e após conseguir acertar pelo menos 9 questões do nível fácil ele desbloquea o próximo nível, e assim sucessivamente. Cada questão contará com uma pontuação fazendo o usuário somar  pontos caso ele acerte, caso contrário, ele não perde nem ganha. 
