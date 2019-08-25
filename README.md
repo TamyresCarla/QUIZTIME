@@ -1,9 +1,9 @@
-# BlaBlaBlaQuiz
+# Quiz Time
 
 Repositório para o desenvolvimento do software "BlaBlaBlaQuiz" para a disciplina de Software Educacional.
 
 # Sugestão de nome para o software
-BlaBlaBlaQUIZ
+Quiz Time
 
 # Descrição 
 	O jogo abordará sobre uma parte da gramática, especificamente sobre fonologia.  
